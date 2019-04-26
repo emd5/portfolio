@@ -27,20 +27,7 @@ Add and commit this initial state of the code base to your master branch.
 
 Time Estimate
 
-For each of the features listed below, make an estimate of the time it will take you to complete the feature, and record your start and finish times for that feature:
-
-```
-Number and name of feature: ________________________________
-
-Estimate of time needed to complete: _____
-
-Start time: _____
-
-Finish time: _____
-
-Actual time needed to complete: _____
-
-```
+For each of the features listed below, make an estimate of the time it will take you to complete the feature, and record your start and finish times for that feature.
 
 ### Feature #1: Refactor the CSS
 ---
@@ -94,7 +81,7 @@ How are we implementing it?
   - [x] In the About Me section, add your personal pitch and banner photo.
   - [x] Add you own color scheme and Google fonts.
   - [x] Change the content and images to reflect your personal preferences. If you are using online images, make sure they are licensed for free, commercial use. For example, Unsplash has a nice variety of free images.
-  - [] Update the list of social media icons with your links using icons for your favorite social media sites from IcoMoon or Font Awesome.
+  - [x] Update the list of social media icons with your links using icons for your favorite social media sites from IcoMoon or Font Awesome.
   - [x] Keep in mind that this template is just a starting point. It is yours to modify to reflect your personal online presence as a software developer so have fun and be creative!
 
 ```
