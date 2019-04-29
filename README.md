@@ -30,6 +30,7 @@ Time Estimate
 For each of the features listed below, make an estimate of the time it will take you to complete the feature, and record your start and finish times for that feature.
 
 ### Feature #1: Refactor the CSS
+
 ---
 
 Why are we implementing this feature?
@@ -46,6 +47,7 @@ How are we implementing it?
 - [x] You may decide how many files to include, but at the minimum should include base.css, layout.css, and modules.css. However, think through the way you separate your CSS rules. For example, you may want several CSS files in a modules folder, if you feel that the code needs to be organized in that manner.
 
 ```
+
 Number and name of feature: Scaffold/ refactor clean UI
 
 Estimate of time needed to complete: 1 hr
@@ -59,6 +61,7 @@ Actual time needed to complete: 25 min
 ```
 
 ### Feature #2: Modify the contents
+
 ---
 
 Why are we implementing this feature?
@@ -98,11 +101,65 @@ Actual time needed to complete: 25 min
 
 ```
 
-### Submission Instructions
+### Feature #3: Add functionality
 
-- Complete your Feature Tasks for the lab
-- Create a PR back to the master branch of your repository, and merge it cleanly.
-- On Canvas, submit a link to your PR. Add a comment in your Canvas assignment which includes the following:
-- A question within the context of today’s lab assignment
-- An observation about the lab assignment, or related ‘Ah-hah!’ moment
-- How long you spent working on this assignment
+Why are we implementing this feature?
+
+- As a user, I want to view a unique portfolio so that the developer’s projects and skills stand out.
+- What are we going to implement?
+- Given that a user opens the application in the browser
+- When the user navigates to the home page
+- Then the portfolio contents should be displayed
+
+How are we implementing it?
+
+- Complete the following features:
+  - [x] Use CDNs for content from libraries and remove the source code files from the project, as applicable
+    - Note: CDNs are available for all libraries except Breakpoints.JS
+  - [x] In tablet view, show a fixed navigation menu instead of a hamburger menu
+  - [x] Convert the large image at the top of your portfolio to a video background or an image carousel containing at least three images
+  Add any other UI features that you feel will make your portfolio unique and personalized
+
+```
+
+Number and name of feature: Skills Section with Carousel
+
+Estimate of time needed to complete: 3 hr
+
+Start time: 9:00am
+
+Finish time: 12pm
+
+Actual time needed to complete: 
+
+```
+
+### Feature #4: Responsive design
+
+Why are we implementing this feature?
+  
+- As a user, I want the dimensions and colors of the application to change so that I can have a unique view in desktop, mobile, and tablet viewports.
+- What are we going to implement?
+- Given that a user opens the application in the browser, on a tablet, or on a mobile device
+- When the user changes the size of the viewport
+- Then the boxes should scale proportionally and change colors
+
+How are we implementing it?
+
+- Use flexbox or CSS grids for styling this application.
+- Use relative units so the elements scale proportionally when the viewport dimensions change.
+- Use at least two breakpoints and change the background colors of each box. There should be three possible views: desktop, tablet, and mobile device. You may choose the exact pixel values for each breakpoint.
+
+```
+
+Number and name of feature: Skills Section with Carousel
+
+Estimate of time needed to complete: 2 hr
+
+Start time: 12:00pm
+
+Finish time: 2pm
+
+Actual time needed to complete: 
+
+```
