@@ -423,7 +423,7 @@ input, select, textarea {
 		position: fixed;
 		text-align: right;
 		top: 0;
-		width: 375px;
+		width: 200px;
 	}
 
 		#header .top {
@@ -573,7 +573,7 @@ input, select, textarea {
 /* Main */
 
 	#main {
-		margin-left: 375px;
+		margin-left: 200px;
 	}
 
 		#main > section {
@@ -618,8 +618,8 @@ input, select, textarea {
 			}
 
 			#main > section.one {
-				background-color: #81918E;
-        background-image: url("../../images/forest.jpg");
+				background-color: none;
+        /* background-image: url("../../images/ocean.mp4"); */
 			}
 
 			#main > section.two {
@@ -753,7 +753,7 @@ input, select, textarea {
 		display: none;
 	}
 
-	@media screen and (max-width: 960px) {
+	@media screen and (max-width:  100px) {
 
 		/* Basic */
 
